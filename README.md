@@ -3,6 +3,7 @@
 A RESTful API server built with **Express.js** and **MongoDB** for the Booking Events web application. Handles all data operations including event management and bookings.
 
 🔗 **Frontend Repo:** [aartisingh07/events-FE](https://github.com/aartisingh07/events-FE)
+
 🔗 **Live App:** [events-16-04-2007.web.app](https://events-16-04-2007.web.app)
 
 ---
@@ -108,8 +109,6 @@ Set the following environment variable on your hosting platform:
 MONGO_URI=your_mongodb_atlas_connection_string
 PORT=5000
 ```
-
-Make sure to update the frontend's `VITE_API_URL` to point to the deployed backend URL.
 
 ---
 
