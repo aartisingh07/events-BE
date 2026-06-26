@@ -4,8 +4,6 @@ A RESTful API server built with **Express.js** and **MongoDB** for the Booking E
 
 🔗 **Frontend Repo:** [aartisingh07/events-FE](https://github.com/aartisingh07/events-FE)
 
-🔗 **Live App:** [events-16-04-2007.web.app](https://events-16-04-2007.web.app)
-
 ---
 
 ## 🛠️ Tech Stack
